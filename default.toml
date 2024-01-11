@@ -1,0 +1,11 @@
+[sensekeys]
+temp1    = "0123456789"
+temp2    = "0123456789"
+pressure = "0123456789"
+humidity = "0123456789"
+wifi     = "0123456789"
+
+[senseauth]
+senseboxid = "0000000000"
+apikey     = "0000000000"
+debug      = true
